@@ -14,6 +14,15 @@ Throughout this repository, you'll find projects completed during the program, r
 
 ---
 
+## 📝 First Session
+
+The first session has been documented in a structured format for easy review.
+
+- See [First Session.md](First%20Session.md) for the complete session summary
+- This section includes objectives, activities, learning points, and next steps
+
+---
+
 ## 🎯 Learning Objectives
 
 - Learn modern software development practices
