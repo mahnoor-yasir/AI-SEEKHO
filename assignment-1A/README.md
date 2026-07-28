@@ -1,386 +1,368 @@
-# Assignment 1A – AI SEEKHO (Session 1)
+# Assignment 1A – Part 1: Agentic IDE Research
 
-> **AI SEEKHO – 8-Week AI Learning Initiative**
-> **Assignment 1A**
-> **Student:** Mahnoor Yasir
-> **Program:** BS Computer Science
-> **University:** University of Management and Technology (UMT)
+**Course:** AI SEEKHO – Session 1  
+**Assignment:** Assignment 1A  
+**Student:** Mahnoor Yasir  
+**Program:** BS Computer Science  
+**University:** University of Management and Technology (UMT)
 
 ---
 
 # Table of Contents
 
-- Part 1 – Agentic IDE Research
-  - Cursor
-  - Claude Code
-  - Antigravity (Google)
-  - Codex (OpenAI)
-  - Windsurf (Codeium)
-- Part 2 – Prompt Engineering
-  - Scenario 1 – Budget Trip
-  - Scenario 2 – Difficult Message
-  - Scenario 3 – Impossible Schedule
-  - Scenario 4 – Broke Student Meal Plan
-  - Scenario 5 – Scholarship Interview
+1. Cursor
+2. Claude Code
+3. Antigravity (Google)
+4. Codex (OpenAI)
+5. Windsurf (Codeium)
 
 ---
 
-# Part 1 – Agentic IDE Research
+# 1. Cursor
 
-## 1. Cursor
+## What is Cursor and Who Built It?
 
-### What is Cursor?
+Cursor is an AI-powered code editor developed by **Anysphere**. It is built on Visual Studio Code and enhances the traditional coding experience by integrating AI directly into the editor. Cursor allows developers to generate, edit, explain, and debug code using natural language instructions.
 
-Cursor is an AI-powered code editor built by **Anysphere**. It is based on Visual Studio Code and is designed to help developers write, edit, debug, and understand code using AI agents.
+---
 
-### Core Features
+## Core Features
 
-- AI Agent Mode
-- Chat with codebase
-- Multi-file editing
-- Smart code completion
-- Bug fixing
-- Terminal assistance
-- Code explanation
-- Project-wide context understanding
+- AI Agent Mode for handling coding tasks independently.
+- Context-aware code generation.
+- Multi-file editing across an entire project.
+- AI Chat for asking programming questions.
+- Smart code completion.
+- Integrated terminal assistance.
+- Bug detection and debugging.
+- Code explanation and refactoring.
+- Supports multiple programming languages.
 
-### Codebase Integration
+---
 
-- Works like VS Code
-- Indexes the entire project
-- Supports Git
-- Supports extensions
-- Supports MCP (Model Context Protocol)
+## Codebase Integration
 
-### Pricing
+Cursor understands an entire project instead of only the currently opened file.
 
-- Free Plan
-- Pro Plan
-- Business Plan
+Features include:
 
-### Key Differentiator
+- Automatic project indexing.
+- Repository-wide search.
+- Context-aware code understanding.
+- Git integration.
+- Extension support through VS Code.
+- MCP (Model Context Protocol) support for connecting external AI tools and services.
 
-Cursor provides one of the strongest AI coding experiences directly inside a VS Code-like editor with excellent context awareness.
+---
 
-### My Opinion
+## Pricing
 
-**Strengths**
+| Plan | Features |
+|------|----------|
+| Free | Limited AI requests |
+| Pro | Higher usage limits and advanced AI features |
+| Business | Team collaboration and enterprise management |
 
-- Easy to use
-- Excellent code understanding
-- Fast editing
-- Great autocomplete
+---
 
-**Limitations**
+## Key Differentiator
 
-- Advanced features require paid plans.
-- Large projects may take time to index.
+Cursor's biggest advantage is its deep integration with VS Code while providing one of the most advanced AI Agent experiences for professional software development.
 
-**Best Use Case**
+---
 
-Perfect for software development, debugging, and learning programming.
+## My Take
+
+### Strengths
+
+- Easy to learn for VS Code users.
+- Excellent project-wide understanding.
+- Powerful AI agent.
+- High-quality autocomplete.
+- Fast multi-file editing.
+
+### Limitations
+
+- Advanced features require a paid subscription.
+- Large repositories may take time to index initially.
+
+### Best Use Case
+
+Best for full-stack developers, software engineers, and students working on medium to large software projects.
 
 ---
 
 # 2. Claude Code
 
-### What is Claude Code?
+## What is Claude Code and Who Built It?
 
-Claude Code is an AI coding assistant developed by **Anthropic**. It allows developers to interact with projects through natural language while helping with coding, debugging, testing, and documentation.
+Claude Code is an AI coding assistant developed by **Anthropic**. It is designed to help developers write, understand, debug, and maintain software projects through conversational AI with strong reasoning capabilities.
 
-### Core Features
+---
 
-- AI coding assistant
-- Terminal integration
-- Repository understanding
-- Multi-file editing
-- Code explanation
-- Refactoring support
+## Core Features
 
-### Codebase Integration
+- AI coding assistant.
+- Natural language programming.
+- Multi-file editing.
+- Repository understanding.
+- Terminal command execution.
+- Code explanation.
+- Refactoring support.
+- Documentation generation.
+- Debugging assistance.
 
-- Reads complete repositories
-- Understands project structure
-- Works with Git
-- Supports MCP
-- Can execute development workflows
+---
 
-### Pricing
+## Codebase Integration
 
-- Included with Claude subscription plans.
+Claude Code provides deep understanding of software repositories.
 
-### Key Differentiator
+It supports:
 
-Claude Code is known for producing highly accurate explanations and maintaining long-context conversations across large codebases.
+- Large codebase context.
+- Repository indexing.
+- Git workflows.
+- MCP support.
+- Terminal integration.
+- Project-wide reasoning.
 
-### My Opinion
+---
 
-**Strengths**
+## Pricing
 
-- Excellent reasoning
-- Great documentation support
-- High-quality explanations
+Claude Code is available through Claude subscription plans with different usage limits depending on the selected plan.
 
-**Limitations**
+---
 
-- Depends on Claude subscription.
-- Still evolving compared to traditional IDEs.
+## Key Differentiator
 
-**Best Use Case**
+Claude Code excels at reasoning over very large codebases and produces highly detailed explanations compared to many competing AI coding assistants.
 
-Ideal for understanding large projects and writing production-quality code.
+---
+
+## My Take
+
+### Strengths
+
+- Excellent reasoning.
+- High-quality code explanations.
+- Great documentation generation.
+- Strong debugging capabilities.
+
+### Limitations
+
+- Requires internet access.
+- Premium features depend on subscription plans.
+
+### Best Use Case
+
+Ideal for developers working on complex software systems, documentation, and debugging large applications.
 
 ---
 
 # 3. Antigravity (Google)
 
-### What is Antigravity?
+## What is Antigravity and Who Built It?
 
-Antigravity is Google's experimental AI coding agent designed to automate software development tasks using advanced AI capabilities.
+Antigravity is Google's experimental AI coding agent designed to automate software engineering tasks using Google's advanced AI models. It focuses on improving developer productivity through intelligent automation.
 
-### Core Features
+---
 
-- AI coding assistance
-- Automated programming tasks
-- Project understanding
-- Code generation
-- Intelligent suggestions
+## Core Features
 
-### Codebase Integration
+- AI-powered coding assistant.
+- Code generation.
+- Repository understanding.
+- Multi-step task execution.
+- AI reasoning.
+- Intelligent code suggestions.
+- Automated development workflows.
 
-- Understands repositories
-- Integrates with developer workflows
-- Supports AI-assisted coding
-- Uses Google's AI ecosystem
+---
 
-### Pricing
+## Codebase Integration
 
-Currently under limited availability.
+Antigravity supports:
 
-### Key Differentiator
+- Repository analysis.
+- Project context understanding.
+- AI-assisted development.
+- Integration with Google's AI ecosystem.
+- Support for modern software engineering workflows.
 
-Built using Google's latest AI technologies with deep integration into Google's developer ecosystem.
+---
 
-### My Opinion
+## Pricing
 
-**Strengths**
+At present, Antigravity has limited public availability and pricing information has not been officially released.
 
-- Strong AI models
-- Smart automation
-- Future-focused development
+---
 
-**Limitations**
+## Key Differentiator
 
-- Limited public availability
-- Documentation still evolving
+Its strongest advantage is Google's powerful AI research combined with future integration into Google's development ecosystem.
 
-**Best Use Case**
+---
 
-Suitable for developers interested in Google's AI ecosystem.
+## My Take
+
+### Strengths
+
+- Advanced AI technology.
+- Intelligent automation.
+- Strong reasoning capabilities.
+
+### Limitations
+
+- Limited public access.
+- Documentation and ecosystem are still evolving.
+
+### Best Use Case
+
+Best suited for developers interested in Google's AI technologies and future AI-assisted software development.
 
 ---
 
 # 4. Codex (OpenAI)
 
-### What is Codex?
+## What is Codex and Who Built It?
 
-Codex is OpenAI's AI coding agent that helps developers generate code, explain code, debug programs, and automate programming tasks using natural language.
+Codex is OpenAI's AI coding agent that helps developers write, understand, edit, and debug software using natural language. It supports multiple programming languages and integrates AI directly into software development workflows.
 
-### Core Features
+---
 
-- AI code generation
-- Code explanation
-- Debugging assistance
-- Multi-file support
-- Terminal capabilities
-- Repository understanding
+## Core Features
 
-### Codebase Integration
+- AI code generation.
+- Multi-file editing.
+- Agent mode.
+- Code explanation.
+- Debugging.
+- Terminal assistance.
+- Project understanding.
+- Code refactoring.
+- Documentation generation.
 
-- Reads project files
-- Understands repositories
-- Supports Git workflows
-- Can perform coding tasks across projects
+---
 
-### Pricing
+## Codebase Integration
 
-Available through OpenAI products depending on subscription plans.
+Codex supports:
 
-### Key Differentiator
+- Repository indexing.
+- Full project understanding.
+- Git integration.
+- Multi-file modifications.
+- Terminal execution.
+- MCP support.
+- Context-aware development.
 
-Codex combines advanced reasoning with coding capabilities across multiple programming languages.
+---
 
-### My Opinion
+## Pricing
 
-**Strengths**
+Codex is available through OpenAI products with features depending on the user's subscription plan.
 
-- Excellent reasoning
-- Supports many languages
-- Fast problem solving
+---
 
-**Limitations**
+## Key Differentiator
 
-- Requires internet connection.
-- Some advanced capabilities depend on subscription plans.
+Codex combines advanced reasoning with powerful coding capabilities and supports a wide variety of programming languages.
 
-**Best Use Case**
+---
 
-Best for developers who need AI assistance during software development.
+## My Take
+
+### Strengths
+
+- Excellent code quality.
+- Supports many programming languages.
+- Strong reasoning.
+- Great debugging assistance.
+
+### Limitations
+
+- Requires internet connectivity.
+- Some advanced capabilities require a paid subscription.
+
+### Best Use Case
+
+Excellent for software development, AI-assisted programming, debugging, and learning new technologies.
 
 ---
 
 # 5. Windsurf (Codeium)
 
-### What is Windsurf?
+## What is Windsurf and Who Built It?
 
-Windsurf is an AI-powered IDE developed by **Codeium**. It combines coding, AI chat, and agent capabilities inside a modern development environment.
-
-### Core Features
-
-- Cascade AI Agent
-- AI chat
-- Code completion
-- Multi-file editing
-- Refactoring
-- Terminal assistance
-
-### Codebase Integration
-
-- Understands entire repositories
-- Supports Git
-- Context-aware suggestions
-- Extension support
-
-### Pricing
-
-- Free Plan
-- Pro Plan
-- Enterprise Plan
-
-### Key Differentiator
-
-Cascade AI Agent allows developers to complete complex coding workflows with minimal manual effort.
-
-### My Opinion
-
-**Strengths**
-
-- Modern interface
-- Powerful AI agent
-- Excellent productivity
-
-**Limitations**
-
-- Some premium features require paid plans.
-
-**Best Use Case**
-
-Excellent for developers who want an all-in-one AI coding IDE.
+Windsurf is an AI-native Integrated Development Environment (IDE) developed by **Codeium**. It combines traditional code editing with intelligent AI agents to automate coding tasks and improve developer productivity.
 
 ---
 
-# Part 2 – Prompt Engineering
+## Core Features
 
-## Scenario 1 – Budget Trip
-
-### Role
-
-Act as an experienced travel planner.
-
-### Context
-
-I have PKR 15,000 and three free days. I want to travel with two friends somewhere in Pakistan without exceeding my budget.
-
-### Main
-
-Create a complete travel plan including transportation, accommodation, food, attractions, estimated costs, and a day-by-day itinerary.
-
-### Conclusion
-
-Present the information in a well-organized table with total expenses and money-saving tips.
+- Cascade AI Agent.
+- AI chat.
+- Smart autocomplete.
+- Multi-file editing.
+- Terminal integration.
+- Code explanation.
+- Debugging.
+- Refactoring.
+- Context-aware coding.
 
 ---
 
-## Scenario 2 – Difficult Message
+## Codebase Integration
 
-### Role
+Windsurf integrates with projects using:
 
-Act as a professional communication expert.
-
-### Context
-
-My landlord has ignored my requests to repair a broken water heater for two weeks. I want to renew my lease, so I need to remain respectful.
-
-### Main
-
-Write a polite but firm WhatsApp message requesting immediate repairs.
-
-### Conclusion
-
-Keep the tone professional, respectful, and concise.
+- Repository indexing.
+- Full project context.
+- Git support.
+- Extension compatibility.
+- Intelligent AI workflows.
+- MCP support.
 
 ---
 
-## Scenario 3 – Impossible Schedule
+## Pricing
 
-### Role
-
-Act as a productivity coach.
-
-### Context
-
-I am a sixth-semester student with five courses, a part-time job (15 hours/week), a side project due in three weeks, and I want to go to the gym four times a week. I struggle to follow unrealistic schedules.
-
-### Main
-
-Create a practical weekly timetable that balances work, study, rest, and exercise while considering my energy levels.
-
-### Conclusion
-
-Provide the schedule in a table along with productivity tips and recommended break times.
+| Plan | Features |
+|------|----------|
+| Free | Basic AI features |
+| Pro | Higher AI usage limits |
+| Enterprise | Team management and enterprise tools |
 
 ---
 
-## Scenario 4 – Broke Student Meal Plan
+## Key Differentiator
 
-### Role
-
-Act as a nutritionist for students.
-
-### Context
-
-I have PKR 8,000 per month for food. I live in a hostel with only a stove and a small refrigerator.
-
-### Main
-
-Design a healthy 7-day meal plan with breakfast, lunch, dinner, snacks, and a grocery shopping list that stays within budget.
-
-### Conclusion
-
-Present everything in tables and include estimated costs and cooking tips.
+The Cascade AI Agent enables developers to automate complete software development workflows rather than only generating code snippets.
 
 ---
 
-## Scenario 5 – Scholarship Interview
+## My Take
 
-### Role
+### Strengths
 
-Act as a scholarship interview coach.
+- Modern interface.
+- Powerful AI agent.
+- Excellent productivity features.
+- Fast project understanding.
 
-### Context
+### Limitations
 
-My scholarship interview is in five days. I become nervous during interviews and often lose confidence while answering questions.
+- Premium features require a subscription.
+- New users may need time to learn advanced workflows.
 
-### Main
+### Best Use Case
 
-Conduct a mock interview by asking common scholarship questions, evaluating my answers, identifying weaknesses, and suggesting improvements.
-
-### Conclusion
-
-Provide constructive feedback, sample high-quality answers, confidence-building tips, and a final readiness score out of 10.
+Ideal for professional developers, teams, and students looking for an all-in-one AI-powered development environment.
 
 ---
 
 # Conclusion
 
-This assignment explored modern AI-powered coding tools and demonstrated how structured prompt engineering can improve AI-generated responses. Understanding both AI coding assistants and effective prompting techniques helps developers become more productive, solve problems efficiently, and communicate better with AI systems.
+Agentic IDEs are transforming software development by combining AI reasoning with modern development environments. Cursor, Claude Code, Antigravity, Codex, and Windsurf each offer unique strengths in code generation, debugging, project understanding, and automation. Choosing the right tool depends on the developer's workflow, project size, preferred ecosystem, and budget.
